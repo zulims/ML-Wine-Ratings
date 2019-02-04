@@ -1,4 +1,4 @@
-#Explore and Drink Wine
+# Explore and Drink Wine
 
 We analzyed over 100,000 wines to build machine learning (ML) algorithms to predict wine quality. First, we used Tableau to learn and understand the data. You can explore these visualizations below.
 
